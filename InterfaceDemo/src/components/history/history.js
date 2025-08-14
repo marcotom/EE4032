@@ -143,7 +143,7 @@ export default function History(props){
             {
                 props.isConnected ?
                 <HistoryPage />:
-                <Navigate to = '/InterfaceDemo' />
+                <Navigate to = '/EE4032/InterfaceDemo' />
             }
         </div>
     )
