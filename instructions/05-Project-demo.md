@@ -1,17 +1,17 @@
 
 # 05. Project Demo
 
-Now that you have gone through all steps of preparation, and you can start working on your project. But in order to reduce your workload, the source code of the [project demo](https://dududududulu.github.io/InterfaceDemo/) is provided [here](https://github.com/EnriqueCerv/InterfaceDemo). As many key points of the application have already been implemented in the demo such as connecting the Dapp to MetaMask, you can design your application based on the demo code instead of building a web page from zero. 
+Now that you have gone through all steps of preparation, and you can start working on your project. But in order to reduce your workload, the source code of the [project demo](https://marcotom.github.io/EE4032/InterfaceDemo/) is provided [here](https://github.com/marcotom/EE4032/tree/main/InterfaceDemo). As many key points of the application have already been implemented in the demo such as connecting the Dapp to MetaMask, you can design your application based on the demo code instead of building a web page from zero. 
 
-This instruction describes the structure of the [project demo](https://github.com/EnriqueCerv/InterfaceDemo.git), and how to work on your own project based on the demo. 
+This instruction describes the structure of the [project demo](https://github.com/marcotom/EE4032/tree/main/InterfaceDemo), and how to work on your own project based on the demo. 
 
 ### Work with the demo
-This part gives the steps to clone the [demo code](https://github.com/EnriqueCerv/InterfaceDemo) on GitHub to local folders and configurations before you can actually start working on it. 
+This part gives the steps to clone the [demo code](https://github.com/marcotom/EE4032/tree/main/InterfaceDemo) on GitHub to local folders and configurations before you can actually start working on it. 
 
 - Clone project demo to local folder.  
   - Open ```Git Bash``` in the local project folder, and paste the following command to clone the code to your local folder:
     ```
-    git clone https://github.com/EnriqueCerv/InterfaceDemo.git
+    git clone https://github.com/marcotom/EE4032/tree/main/InterfaceDemo
     ```
   - You will see a new folder named ```InterfaceDemo``` in your project folder. Replace the ```src``` folder in your project folder with the ```src``` folder in ```InterfaceDemo```. 
   - Open a terminal or command prompt window, type the following commands to install necessary packages

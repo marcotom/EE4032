@@ -25,7 +25,7 @@ You should be able to see your account on top right side of your browser.
 ### Connect to Dapps and try transactions
 With your MetaMask account and ETH, you can now connect to web3 Dapps and employ transactions on them!
 
-1. Go to [Project Interface Demo](https://dududududulu.github.io/InterfaceDemo/) and connect the page with your MetaMask account. As the name suggests, this is an easy demo for your group projects. But for now you can just play with it and find out how the transactions are employed with your account. Note that this page will be blank if you have not installed MetaMask on your browser. 
+1. Go to [Project Interface Demo](https://marcotom.github.io/EE4032/InterfaceDemo/) and connect the page with your MetaMask account. As the name suggests, this is an easy demo for your group projects. But for now you can just play with it and find out how the transactions are employed with your account. Note that this page will be blank if you have not installed MetaMask on your browser. 
 ![demo-login](https://i.postimg.cc/hjrpTG1t/demo-login.png)
 
 1. Click on the blue link below and confirm on your connection to the page. Your profile will be displayed with your address, network and ETH. Click on **Storage** in the menu below to proceed. 
