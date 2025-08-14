@@ -1,7 +1,7 @@
 
 # 03. React and VSCode
 
-With Solidity and Remix, we can create smart contracts. But in order to wrap the contracts into a Dapp and show its functionality more explicitly, we will need **React** to construct a web page as an interface. The [Project Interface Demo](https://dududududulu.github.io/InterfaceDemo/) you have seen before is an easy example and also a framework for you to work on. The source code can be found at [here](https://github.com/EnriqueCerv/InterfaceDemo.git), but let's save it for later and set up the environment to use React first. 
+With Solidity and Remix, we can create smart contracts. But in order to wrap the contracts into a Dapp and show its functionality more explicitly, we will need **React** to construct a web page as an interface. The [Project Interface Demo](https://dududududulu.github.io/InterfaceDemo/) you have seen before is an easy example and also a framework for you to work on. The source code can be found at [here](https://github.com/marcotom/EE4032/tree/main/InterfaceDemo), but let's save it for later and set up the environment to use React first. 
 
 We use **VSCode** (Visual Studio Code) as the tool for coding and in the context below we follow the steps to set up a web3 Dapp project with React in VSCode. 
 
@@ -20,7 +20,7 @@ There is actually an official tutorial to use [React in VSCode](https://code.vis
 - **Install necessary packages**
   - Install [Node.js](https://nodejs.org/en/), in which npm should be included. 
   - To verify that you have Node.js installed correctly on your computer, open a terminal or command prompt and type ```node --version``` or ```npm --version``` to check the version. 
-  - If installed correctly, you will see ```v22.17.1``` on the screen if you type ```node --version``` and ```10.9.2``` for ```npm --version```. Make sure that your versions are correct, or your may get into trouble installing web3 into your project (details on this issue can be found [here](https://github.com/EnriqueCerv/InterfaceDemo/issues/4)). 
+  - If installed correctly, you will see ```v22.17.1``` on the screen if you type ```node --version``` and ```10.9.2``` for ```npm --version```. Make sure that your versions are correct, or your may get into trouble installing web3 into your project. 
 
 - **Create the React project**
   - You can now create a new React application by typing the following command:
