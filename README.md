@@ -6,6 +6,9 @@ Various tutorials to introduce you to the various tools you will need for the pr
 ## InterfaceDemo/
 A demo project
 
+## docs/InterfaceDemo/
+This is the folder where the website *https://marcotom.github.io/EE4032/InterfaceDemo/* is hosted
+
 ---
 
 ### Credit
