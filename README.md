@@ -14,6 +14,6 @@ This is the folder where the website *https://marcotom.github.io/EE4032/* is hos
 ### Credit
 The original InterfaceDemo project together with all instructions were created by Yan Ge (2022-2024): 
 
-*https://github.com/dududududulu/*.
+*https://github.com/dududududulu/interfacedemo/*.
 
 It has been updated in 2025 by Enrique Cervero and Tristan Philippe. 
